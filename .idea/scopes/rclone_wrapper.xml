@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="rclone-wrapper" pattern="file[group:rclone-wrapper]:*//*" />
+</component>
