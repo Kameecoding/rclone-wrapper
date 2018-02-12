@@ -7,9 +7,6 @@ import java.util.List;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- * @author Andrej Kovac kameecoding (kamee@kameecoding.com) on 2018-02-03
- */
 public class Rclone implements Runnable {
 	private static final Logger LOGGER = LoggerFactory.getLogger(Rclone.class);
 	private ProcessBuilder processBuilder;
